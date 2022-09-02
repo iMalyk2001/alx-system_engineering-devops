@@ -1,1 +1,2 @@
-#!/bin/bash\nchmod go=x o+r
+#!/bin/bash
+chmod go=x o+r
